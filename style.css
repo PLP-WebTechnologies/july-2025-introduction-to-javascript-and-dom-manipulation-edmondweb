@@ -1,0 +1,21 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+button {
+    padding: 10px;
+    background-color: lightblue;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: deepskyblue;
+}
